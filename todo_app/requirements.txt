@@ -1,2 +1,4 @@
+flask
+gunicorn
 # To-Do List app uses only the Python standard library (tkinter, json).
 # No pip install required. For Python 3.10+.
